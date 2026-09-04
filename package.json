@@ -1,6 +1,6 @@
 {
     "name": "aplayer",
-    "version": "1.10.1",
+    "version": "1.10.2",
     "description": "Wow, such a beautiful html5 music player",
     "main": "dist/APlayer.min.js",
     "style": "dist/APlayer.min.css",
@@ -74,7 +74,6 @@
     },
     "dependencies": {
         "balloon-css": "^1.0.3",
-        "promise-polyfill": "8.2.0",
-        "smoothscroll": "0.4.0"
+        "promise-polyfill": "8.2.0"
     }
 }
